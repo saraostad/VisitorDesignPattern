@@ -1,0 +1,9 @@
+G:\test\tamrin C# Gang Of X\VisitorDesignPattern\VisitorDesignPattern\UnitTest\VisitorUnitTest\bin\Debug\VisitorUnitTest.dll
+G:\test\tamrin C# Gang Of X\VisitorDesignPattern\VisitorDesignPattern\UnitTest\VisitorUnitTest\bin\Debug\VisitorUnitTest.pdb
+G:\test\tamrin C# Gang Of X\VisitorDesignPattern\VisitorDesignPattern\UnitTest\VisitorUnitTest\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+G:\test\tamrin C# Gang Of X\VisitorDesignPattern\VisitorDesignPattern\UnitTest\VisitorUnitTest\bin\Debug\VisitorDesignPattern.exe
+G:\test\tamrin C# Gang Of X\VisitorDesignPattern\VisitorDesignPattern\UnitTest\VisitorUnitTest\bin\Debug\VisitorDesignPattern.pdb
+G:\test\tamrin C# Gang Of X\VisitorDesignPattern\VisitorDesignPattern\UnitTest\VisitorUnitTest\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
+G:\test\tamrin C# Gang Of X\VisitorDesignPattern\VisitorDesignPattern\UnitTest\VisitorUnitTest\obj\Debug\VisitorUnitTest.csprojResolveAssemblyReference.cache
+G:\test\tamrin C# Gang Of X\VisitorDesignPattern\VisitorDesignPattern\UnitTest\VisitorUnitTest\obj\Debug\VisitorUnitTest.dll
+G:\test\tamrin C# Gang Of X\VisitorDesignPattern\VisitorDesignPattern\UnitTest\VisitorUnitTest\obj\Debug\VisitorUnitTest.pdb

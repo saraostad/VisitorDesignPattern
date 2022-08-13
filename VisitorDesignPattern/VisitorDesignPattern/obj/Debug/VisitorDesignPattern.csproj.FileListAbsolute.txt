@@ -1,0 +1,6 @@
+G:\test\tamrin C# Gang Of X\VisitorDesignPattern\VisitorDesignPattern\VisitorDesignPattern\bin\Debug\VisitorDesignPattern.exe.config
+G:\test\tamrin C# Gang Of X\VisitorDesignPattern\VisitorDesignPattern\VisitorDesignPattern\bin\Debug\VisitorDesignPattern.exe
+G:\test\tamrin C# Gang Of X\VisitorDesignPattern\VisitorDesignPattern\VisitorDesignPattern\bin\Debug\VisitorDesignPattern.pdb
+G:\test\tamrin C# Gang Of X\VisitorDesignPattern\VisitorDesignPattern\VisitorDesignPattern\obj\Debug\VisitorDesignPattern.csprojResolveAssemblyReference.cache
+G:\test\tamrin C# Gang Of X\VisitorDesignPattern\VisitorDesignPattern\VisitorDesignPattern\obj\Debug\VisitorDesignPattern.exe
+G:\test\tamrin C# Gang Of X\VisitorDesignPattern\VisitorDesignPattern\VisitorDesignPattern\obj\Debug\VisitorDesignPattern.pdb
